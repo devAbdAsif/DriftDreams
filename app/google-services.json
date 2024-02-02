@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "843944952555",
+    "firebase_url": "https://drift-dreams-c7238-default-rtdb.firebaseio.com",
+    "project_id": "drift-dreams-c7238",
+    "storage_bucket": "drift-dreams-c7238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843944952555:android:2a1daac2c3692d1a0cf4ae",
+        "android_client_info": {
+          "package_name": "com.example.driftdreams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxkcsmpUX3b-UEwMjgBUXBr4-TsYFR9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

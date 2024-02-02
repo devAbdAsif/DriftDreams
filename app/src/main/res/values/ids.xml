@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgcart" type="id" />
+    <item name="carratingcart" type="id" />
+    <item name="carnamecart" type="id" />
+    <item name="carpricecart" type="id" />
+</resources>
